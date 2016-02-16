@@ -1,0 +1,2 @@
+# angularBootStrapWsMysqlcustomersProject
+SPA project for customers management
